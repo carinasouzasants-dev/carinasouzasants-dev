@@ -15,7 +15,7 @@ Building practical AI systems, experimenting with LLMs and exploring the interse
 &nbsp;
 
 <a href="mailto:carinasouzas@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-carinasouzas%40gmail.com-19121F?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/EMAIL-carinasouzasants%40gmail.com-19121F?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
 </a>
 
 </div>
