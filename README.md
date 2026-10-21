@@ -1,16 +1,18 @@
 <!-- ═══════════════════════════════════════════════════════ -->
-<!--                    HEADER / CASCADE                     -->
+<!--                         HEADER                          -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D12,50:19121F,100:3A173D&height=220&section=header&text=Carina%20Santana&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=ARTIFICIAL%20INTELLIGENCE%20%C2%B7%20DATA%20%C2%B7%20ENGINEERING&descAlignY=58&descSize=15&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D12,45:19121F,75:351A3B,100:6A2C67&height=250&section=header&text=Carina%20de%20Souza%20Santana&fontSize=46&fontColor=FFFFFF&fontAlignY=40&desc=ARTIFICIAL%20INTELLIGENCE%20%C2%B7%20DATA%20%C2%B7%20ENGINEERING&descAlignY=59&descSize=15&animation=fadeIn" width="100%"/>
 
 </div>
 
 <br>
 
 <div align="center">
+
+# Carina de Souza Santana
 
 ### Software Engineering Student · Artificial Intelligence · Data
 
@@ -21,11 +23,11 @@ Building practical AI systems, experimenting with LLMs and exploring the interse
 <br>
 
 <a href="https://www.linkedin.com/in/carina-souza-dev">
-<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/LinkedIn-Carina%20Santana-3A173D?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
 
 <a href="mailto:carinasouzas@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Email-Contact%20Me-111111?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
 </a>
 
 </div>
@@ -41,6 +43,41 @@ I'm a Software Engineering student interested in building intelligent systems an
 My current focus is on **Generative AI, LLMs, AI Agents, Data and Python**, learning through experimentation, projects and continuous iteration.
 
 I learn by building, testing ideas and understanding what works, what fails and why.
+
+---
+
+# Technology
+
+<div align="center">
+
+### Artificial Intelligence
+
+<img src="https://img.shields.io/badge/Generative%20AI-19121F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-19121F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-19121F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-19121F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-19121F?style=for-the-badge"/>
+
+<br><br>
+
+### Data
+
+<img src="https://img.shields.io/badge/Python-19121F?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Pandas-19121F?style=for-the-badge&logo=pandas&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/NumPy-19121F?style=for-the-badge&logo=numpy&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/SQL-19121F?style=for-the-badge&logo=postgresql&logoColor=FFFFFF"/>
+
+<br><br>
+
+### Engineering
+
+<img src="https://img.shields.io/badge/Git-19121F?style=for-the-badge&logo=git&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GitHub-19121F?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/APIs-19121F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automation-19121F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linux-19121F?style=for-the-badge&logo=linux&logoColor=FFFFFF"/>
+
+</div>
 
 ---
 
@@ -102,9 +139,7 @@ Python · Pandas · SQL · Gemini API
 </p>
 
 <p>
-<a href="https://github.com/carinasouzasants-dev/ai-data-investigator">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-3A173D?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
+<img src="https://img.shields.io/badge/IN%20PROGRESS-111111?style=for-the-badge"/>
 </p>
 
 </td>
@@ -158,9 +193,7 @@ Python · LLMs · APIs · Agent Architecture
 </p>
 
 <p>
-<a href="#">
-<img src="https://img.shields.io/badge/COMING%20SOON-111111?style=for-the-badge&logoColor=FFFFFF"/>
-</a>
+<img src="https://img.shields.io/badge/COMING%20SOON-111111?style=for-the-badge"/>
 </p>
 
 </td>
@@ -181,6 +214,8 @@ Python · LLMs · APIs · Agent Architecture
 ---
 
 ## Current Focus
+
+<div align="center">
 
 <table>
 <tr>
@@ -224,6 +259,8 @@ System Design
 </tr>
 </table>
 
+</div>
+
 ---
 
 ## Learning by Building
@@ -232,11 +269,7 @@ System Design
 
 `Experiment` → `Investigate` → `Build` → `Evaluate` → `Apply`
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 ### Artificial Intelligence · Data · Engineering
 
@@ -246,6 +279,16 @@ System Design
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A173D,50:19121F,100:0D0D12&height=100&section=footer"/>
+<a href="https://www.linkedin.com/in/carina-souza-dev">
+<img src="https://img.shields.io/badge/CONNECT%20WITH%20ME%20ON%20LINKEDIN-3A173D?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A2C67,50:351A3B,100:0D0D12&height=100&section=footer"/>
 
 </div>
