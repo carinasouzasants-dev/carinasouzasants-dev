@@ -1,122 +1,251 @@
-<h1 align="center">Carina Souza</h1>
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                    HEADER / CASCADE                     -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <strong>Software Engineering Student · Artificial Intelligence · Data</strong>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D12,50:19121F,100:3A173D&height=220&section=header&text=Carina%20Santana&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=ARTIFICIAL%20INTELLIGENCE%20%C2%B7%20DATA%20%C2%B7%20ENGINEERING&descAlignY=58&descSize=15&animation=fadeIn" width="100%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### Software Engineering Student · Artificial Intelligence · Data
+
+<p>
+Building practical AI systems, experimenting with LLMs and exploring the intersection between Artificial Intelligence and Data.
 </p>
 
-<p align="center">
-  Building practical AI systems, experimenting with LLMs and exploring the intersection between Artificial Intelligence and Data.
-</p>
+<br>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/carina-souza-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:carinasouzas@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/carina-souza-dev">
+<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
+</a>
+
+<a href="mailto:carinasouzas@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
+</a>
+
+</div>
+
+<br>
 
 ---
 
 ## About
 
-I'm a Software Engineering student interested in building intelligent systems and understanding how AI can be applied to real-world problems.
+I'm a Software Engineering student interested in building intelligent systems and understanding how Artificial Intelligence can be applied to real-world problems.
 
 My current focus is on **Generative AI, LLMs, AI Agents, Data and Python**, learning through experimentation, projects and continuous iteration.
 
+I learn by building, testing ideas and understanding what works, what fails and why.
+
 ---
 
-## Featured Project
+# Projects
 
-### 🧪 GenAI Research Lab
+<div align="center">
 
-A hands-on laboratory focused on understanding and experimenting with Generative AI concepts through practical implementations.
+### Selected Work
 
-The project evolves from fundamental LLM experiments to more advanced AI systems, covering:
+</div>
 
-- Prompt Engineering
-- Structured Outputs
-- Model Comparison
-- LLM Evaluation
-- RAG
-- Embeddings
-- Semantic Search
-- Vector Search
-- Tool Calling
-- AI Agents
-- AI Automation
-- Applied Generative AI
+<br>
 
-**Tech:** Python · Gemini API · Pydantic · NumPy · RAG · Embeddings · AI Agents
+<table>
+<tr>
 
-[Explore the repository →](https://github.com/carinasouzasants-dev/genai-research-lab)
+<td width="50%" valign="top">
+
+<h3>🧪 GenAI Research Lab</h3>
+
+<p>
+A hands-on laboratory for experimenting with Generative AI and understanding how different LLM techniques behave in practice.
+</p>
+
+<p>
+<b>Focus</b><br>
+Prompt Engineering · RAG · Embeddings · Tool Calling · AI Agents · Automation
+</p>
+
+<p>
+<b>Stack</b><br>
+Python · Gemini API · Pydantic · NumPy
+</p>
+
+<p>
+<a href="https://github.com/carinasouzasants-dev/genai-research-lab">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-3A173D?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🔎 AI Data Investigator</h3>
+
+<p>
+An AI-powered system designed to investigate datasets, test hypotheses and generate evidence-based insights.
+</p>
+
+<p>
+<b>Focus</b><br>
+Data Analysis · EDA · Hypotheses · Evidence · AI Reasoning
+</p>
+
+<p>
+<b>Stack</b><br>
+Python · Pandas · SQL · Gemini API
+</p>
+
+<p>
+<a href="https://github.com/carinasouzasants-dev/ai-data-investigator">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-3A173D?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🌱 AgroGenAI</h3>
+
+<p>
+A Generative AI application exploring how LLMs, semantic search and structured analysis can support agricultural decision-making.
+</p>
+
+<p>
+<b>Focus</b><br>
+RAG · Embeddings · Semantic Search · Structured Analysis
+</p>
+
+<p>
+<b>Stack</b><br>
+Python · Gemini API · Embeddings · RAG
+</p>
+
+<p>
+<a href="https://github.com/carinasouzasants-dev/genai-research-lab">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-3A173D?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🤖 AI Research Agent</h3>
+
+<p>
+An intelligent agent designed to break complex questions into steps, use tools and produce structured research results.
+</p>
+
+<p>
+<b>Focus</b><br>
+AI Agents · Tool Calling · Planning · Structured Outputs
+</p>
+
+<p>
+<b>Stack</b><br>
+Python · LLMs · APIs · Agent Architecture
+</p>
+
+<p>
+<a href="#">
+<img src="https://img.shields.io/badge/COMING%20SOON-111111?style=for-the-badge&logoColor=FFFFFF"/>
+</a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/carinasouzasants-dev?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-111111?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+
+</div>
 
 ---
 
 ## Current Focus
 
-<pre>
-Artificial Intelligence
-├── Generative AI
-├── LLMs
-├── RAG & Retrieval
-├── AI Agents
-└── AI Automation
+<table>
+<tr>
 
-Data
-├── Python
-├── SQL
-├── Pandas
-└── Data Analysis
+<td width="33%" align="center">
 
-Engineering
-├── APIs
-├── Git & GitHub
-├── Linux
-└── Software Development
-</pre>
+### 🧠 AI
 
----
+Generative AI  
+LLMs  
+AI Agents  
+RAG  
+Prompt Engineering
 
-## Tech Stack
+</td>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,linux,mysql,vscode&theme=dark" />
-</p>
+<td width="33%" align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Generative%20AI-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/LLMs-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/RAG-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI%20Agents-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Data-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Python-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/SQL-111827?style=flat-square" />
-</p>
+### 📊 Data
+
+Python  
+SQL  
+Data Analysis  
+Statistics  
+Data-driven Systems
+
+</td>
+
+<td width="33%" align="center">
+
+### ⚙️ Engineering
+
+APIs  
+Automation  
+Software Engineering  
+Experimentation  
+System Design
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## Learning by Building
 
-I believe the best way to learn AI is to build, test, evaluate and improve.
+<div align="center">
 
-<p align="center">
-  <strong>Learn → Build → Experiment → Evaluate → Improve</strong>
-</p>
+`Experiment` → `Investigate` → `Build` → `Evaluate` → `Apply`
 
----
+</div>
 
-<p align="center">
-  <a href="https://github.com/carinasouzasants-dev">
-    <strong>GitHub</strong>
-  </a>
-  &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/carina-souza-dev">
-    <strong>LinkedIn</strong>
-  </a>
-</p>
+<br>
 
-<p align="center">
-  <sub>Building my way into AI Engineering.</sub>
-</p>
+<div align="center">
+
+### Artificial Intelligence · Data · Engineering
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A173D,50:19121F,100:0D0D12&height=100&section=footer"/>
+
+</div>
