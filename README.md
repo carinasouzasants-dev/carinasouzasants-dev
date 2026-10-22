@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D12,45:19121F,75:351A3B,100:6A2C67&height=240&section=header&text=Carina%20de%20Souza%20Santana&fontSize=46&fontColor=FFFFFF&fontAlignY=40&desc=ARTIFICIAL%20INTELLIGENCE%20%C2%B7%20DATA%20%C2%B7%20ENGINEERING&descAlignY=59&descSize=15&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D12,45:19121F,75:351A3B,100:6A2C67&height=240&section=header&text=Carina%20de%20Souza%20Santana&fontSize=46&fontColor=FFFFFF&fontAlignY=40&desc=ARTIFICIAL%20INTELLIGENCE%20%C2%B7%20DATA%20%C2%B7%20SOFTWARE%20ENGINEERING&descAlignY=59&descSize=15&animation=fadeIn" width="100%"/>
 
 ### Software Engineering Student · Artificial Intelligence · Data
 
-Building practical AI systems, experimenting with LLMs and exploring the intersection between Artificial Intelligence and Data.
+Building practical AI systems, experimenting with LLMs and exploring the intersection between Artificial Intelligence, Data and Software Engineering.
 
 <br>
 
@@ -15,7 +15,7 @@ Building practical AI systems, experimenting with LLMs and exploring the interse
 &nbsp;
 
 <a href="mailto:carinasouzas@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-carinasouzasants%40gmail.com-19121F?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/EMAIL-carinasouzas%40gmail.com-19121F?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
 </a>
 
 </div>
@@ -28,7 +28,9 @@ Building practical AI systems, experimenting with LLMs and exploring the interse
 
 I'm a Software Engineering student interested in building intelligent systems and applying Artificial Intelligence to real-world problems.
 
-My current focus is **Generative AI, LLMs, AI Agents, Data and Python**, learning through experimentation, projects and continuous iteration.
+My current focus is **Generative AI, LLMs, AI Agents, Data, Python and Software Engineering**, learning through experimentation, projects and continuous iteration.
+
+I enjoy turning ideas into working systems while paying attention to **architecture, clean code, testing, maintainability and real-world applicability**.
 
 ---
 
@@ -92,13 +94,17 @@ My current focus is **Generative AI, LLMs, AI Agents, Data and Python**, learnin
 <img src="https://cdn.simpleicons.org/linux/FCC624" width="48" height="48"/>
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/docker/2496ED" width="48" height="48"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="48" height="48"/>
 
 <br><br>
 
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/APIs-19121F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Automation-19121F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Clean%20Code-19121F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Software%20Engineering-19121F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Testing-19121F?style=for-the-badge"/>
 
 </div>
 
@@ -108,6 +114,30 @@ My current focus is **Generative AI, LLMs, AI Agents, Data and Python**, learnin
 
 <table>
 <tr>
+
+<td width="50%" valign="top">
+
+<h3>✦ LifeAdmin AI</h3>
+
+<p>
+AI-powered personal information workspace designed to organize, investigate and understand information from documents and data.
+</p>
+
+<p>
+<b>Explores</b><br>
+Generative AI · LLMs · Document Processing · Data Processing · AI Investigation · Information Retrieval
+</p>
+
+<p>
+<b>Built with</b><br>
+Python · Streamlit · Google Gemini · Pandas · PyPDF · OpenPyXL · Pytest
+</p>
+
+<a href="https://github.com/carinasouzasants-dev/lifeadmin-ai">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-6A2C67?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+
+</td>
 
 <td width="50%" valign="top">
 
@@ -133,6 +163,10 @@ Python · Gemini API · Pydantic · NumPy
 
 </td>
 
+</tr>
+
+<tr>
+
 <td width="50%" valign="top">
 
 <h3>🔎 AI Data Investigator</h3>
@@ -155,10 +189,6 @@ Python · Pandas · SQL · Gemini API
 
 </td>
 
-</tr>
-
-<tr>
-
 <td width="50%" valign="top">
 
 <h3>🌱 AgroGenAI</h3>
@@ -177,11 +207,13 @@ RAG · Embeddings · Semantic Search · Structured Outputs
 Python · Gemini API · Vector Search
 </p>
 
-<a href="https://github.com/carinasouzasants-dev/genai-research-lab">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-3A173D?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
+<img src="https://img.shields.io/badge/COMING%20SOON-19121F?style=for-the-badge"/>
 
 </td>
+
+</tr>
+
+<tr>
 
 <td width="50%" valign="top">
 
@@ -202,6 +234,25 @@ Python · LLMs · APIs
 </p>
 
 <img src="https://img.shields.io/badge/COMING%20SOON-19121F?style=for-the-badge"/>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🧠 More AI Projects</h3>
+
+<p>
+A growing collection of experiments, prototypes and practical projects focused on Artificial Intelligence and Software Engineering.
+</p>
+
+<p>
+<b>Focus</b><br>
+Generative AI · Data · Automation · AI Engineering · Intelligent Systems
+</p>
+
+<a href="https://github.com/carinasouzasants-dev?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-3A173D?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
 
 </td>
 
@@ -244,15 +295,41 @@ Python · LLMs · APIs
 
 <br><br>
 
+`Streamlit` &nbsp; `Google Gemini` &nbsp; `Document Processing` &nbsp; `Clean Code` &nbsp; `Testing`
+
+<br><br>
+
 `Experiment` → `Investigate` → `Build` → `Evaluate` → `Apply`
 
 </div>
 
-<br>
+---
+
+## Engineering Focus
 
 <div align="center">
 
-Artificial Intelligence · Data · Engineering
+```text
+Artificial Intelligence
+        ↓
+Generative AI
+        ↓
+LLMs & AI Agents
+        ↓
+Data & Information
+        ↓
+Software Engineering
+        ↓
+Real-World AI Systems
+```
+
+</div>
+
+---
+
+<div align="center">
+
+Artificial Intelligence · Data · Software Engineering
 
 <br><br>
 
